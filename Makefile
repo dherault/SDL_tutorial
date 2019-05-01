@@ -1,5 +1,5 @@
 #OBJS specifies which files to compile as part of the project
-OBJS = 09_the_viewport.cpp
+OBJS = 46_multithreading.cpp
 
 #CC specifies which compiler we're using
 CC = g++
